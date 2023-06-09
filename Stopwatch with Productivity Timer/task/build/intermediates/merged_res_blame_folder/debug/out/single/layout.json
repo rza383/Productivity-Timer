@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/custom_alert_dialog.xml",
+        "source": "/Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/layout/custom_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/layout/activity_main.xml"
+    }
+]

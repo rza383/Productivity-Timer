@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.tests.stopwatch.Stage5UnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-06-09T09:25:08" hostname="Abylays-MacBook-Pro.local" time="3.069">
+  <properties/>
+  <testcase name="test01_CheckNotificationIsNotSentBeforeTimeLimit" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="2.72"/>
+  <testcase name="test02_CheckNotificationIsNotSentWithTimeLimitSetToZero" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.094"/>
+  <testcase name="test03_CheckNotificationIsNotSentWithTimeLimitSetToNegative" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.088"/>
+  <testcase name="test04_CheckNotificationIsNotSentClickingResetBeforeTimeExceeded" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.075"/>
+  <testcase name="test05_CheckNotificationIsSentOnTimeLimitExceeded" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.092"/>
+  <system-out><![CDATA[resources.arsc in APK '/Users/abylay/.m2/repository/org/robolectric/android-all-instrumented/12-robolectric-7732740-i3/android-all-instrumented-12-robolectric-7732740-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+]]></system-err>
+</testsuite>

@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/abylay/.gradle/caches/transforms-3/8fd423bd0c410cb01376b531a09347cc/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.7] /Users/abylay/.gradle/caches/transforms-3/302fdaffeababee8770a9885cfc3d371/transformed/jetified-fragment-ktx-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/abylay/.gradle/caches/transforms-3/84adec245c9ecadd5ef32c36ee0dc0b7/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/abylay/.gradle/caches/transforms-3/2561b36967d6047c2b944e1ae56626e1/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/abylay/.gradle/caches/transforms-3/843d7fe25c57fc0ad7c043ffea131ae3/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/abylay/.gradle/caches/transforms-3/abaff8438427297a2be0d9b405293434/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/abylay/.gradle/caches/transforms-3/ca3c7dd938a459f7c1c3174cd6f47ba4/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abylay/.gradle/caches/transforms-3/6f6b9b67ce2edd5a8c98655575aaf65d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/abylay/.gradle/caches/transforms-3/30b179730d3e377ee6af57cdac8c93e2/transformed/fragment-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/abylay/.gradle/caches/transforms-3/7871eeae9204e7f90dc4d15b30bff52d/transformed/jetified-activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/abylay/.gradle/caches/transforms-3/3395f163ea50cbc5a00f58691ba50d0e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abylay/.gradle/caches/transforms-3/9de3d222db70812f218dd334a4173299/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/abylay/.gradle/caches/transforms-3/f789f3138f725c41c7733fc3afc77222/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/abylay/.gradle/caches/transforms-3/56a5ed27daa51227682037c9967c7c88/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/abylay/.gradle/caches/transforms-3/2e91da32535195cce83c9314f32fcc03/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/abylay/.gradle/caches/transforms-3/44184fcc5902b08767ef4b907f06b0dd/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/abylay/.gradle/caches/transforms-3/43de7ae63a86a274490a37de90259e77/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abylay/.gradle/caches/transforms-3/e603d48acb89130d45b4d9866925d83e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/abylay/.gradle/caches/transforms-3/6446d1ef2279a10f6c168ab26f0daca1/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abylay/.gradle/caches/transforms-3/c44b19a5355b8106bdeaf85daed4a591/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abylay/.gradle/caches/transforms-3/29f8e5bd0430eeed7d46dd1645da309c/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abylay/.gradle/caches/transforms-3/3583afb71eb3e53932f9bf7e8c1b824d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/abylay/.gradle/caches/transforms-3/853020e0b7f8b7a7c7f142739f85ee87/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abylay/.gradle/caches/transforms-3/59c3edaa39b5597b085eda87c3a1a6a4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abylay/.gradle/caches/transforms-3/a7594d2941a72a462035cf3d7070f912/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abylay/.gradle/caches/transforms-3/a468d6958e8bfd9c799d4c8d06f81d2d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abylay/.gradle/caches/transforms-3/e2104b114161f9a0cc93554adcc31929/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/abylay/.gradle/caches/transforms-3/2ad9115f0e95ba61d35dc2b9a01f01be/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/abylay/.gradle/caches/transforms-3/201dfcd8ec0515fb0c7d0a4bbcdff197/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/abylay/.gradle/caches/transforms-3/b0018df4313aa0bddbeaf09c1a0f1b2f/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/abylay/.gradle/caches/transforms-3/a08e1230b8416590d0469440564388b7/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abylay/.gradle/caches/transforms-3/1e3c924aeb2d21c39c074b2bf3f8db83/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/abylay/.gradle/caches/transforms-3/9d6c379610a5fe2ca066476a29dde22f/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/abylay/.gradle/caches/transforms-3/50f37d92b5d935c4f1d43f2962f86e50/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/abylay/.gradle/caches/transforms-3/0a9224cf9296bd0e2919b1f1e84d8c74/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abylay/.gradle/caches/transforms-3/8b0609dd16043df2ac3fd4826ebd2486/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abylay/.gradle/caches/transforms-3/7190d698d28f8190dc80c30a2c69779c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abylay/.gradle/caches/transforms-3/aa17b7fe3444757735e28a95cb3ccc53/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abylay/.gradle/caches/transforms-3/13ecbc218194bb07e2222c93c939c8bf/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abylay/.gradle/caches/transforms-3/5b408383de9a30951d0840c1228b2351/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/abylay/.gradle/caches/transforms-3/b5fda5456b68aa6df3211a3e7f420053/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abylay/.gradle/caches/transforms-3/b80ce203341323c15e94d41e60bdd840/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abylay/.gradle/caches/transforms-3/dc36de907295b8c1723454b0e9bac54e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+		INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:5:3-21:17
+MERGED from [com.google.android.material:material:1.4.0] /Users/abylay/.gradle/caches/transforms-3/843d7fe25c57fc0ad7c043ffea131ae3/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/abylay/.gradle/caches/transforms-3/843d7fe25c57fc0ad7c043ffea131ae3/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/abylay/.gradle/caches/transforms-3/abaff8438427297a2be0d9b405293434/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/abylay/.gradle/caches/transforms-3/abaff8438427297a2be0d9b405293434/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.8.0] /Users/abylay/.gradle/caches/transforms-3/50f37d92b5d935c4f1d43f2962f86e50/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/abylay/.gradle/caches/transforms-3/50f37d92b5d935c4f1d43f2962f86e50/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abylay/.gradle/caches/transforms-3/7190d698d28f8190dc80c30a2c69779c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abylay/.gradle/caches/transforms-3/7190d698d28f8190dc80c30a2c69779c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/abylay/.gradle/caches/transforms-3/50f37d92b5d935c4f1d43f2962f86e50/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:7:7-33
+	android:theme
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:6:7-35
+activity#org.hyperskill.stopwatch.MainActivity
+ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:13:5-20:16
+	android:exported
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:13:15-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml:18:19-66
+uses-sdk
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/abylay/.gradle/caches/transforms-3/8fd423bd0c410cb01376b531a09347cc/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/abylay/.gradle/caches/transforms-3/8fd423bd0c410cb01376b531a09347cc/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.5.7] /Users/abylay/.gradle/caches/transforms-3/302fdaffeababee8770a9885cfc3d371/transformed/jetified-fragment-ktx-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.7] /Users/abylay/.gradle/caches/transforms-3/302fdaffeababee8770a9885cfc3d371/transformed/jetified-fragment-ktx-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/abylay/.gradle/caches/transforms-3/84adec245c9ecadd5ef32c36ee0dc0b7/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/abylay/.gradle/caches/transforms-3/84adec245c9ecadd5ef32c36ee0dc0b7/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/abylay/.gradle/caches/transforms-3/2561b36967d6047c2b944e1ae56626e1/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/abylay/.gradle/caches/transforms-3/2561b36967d6047c2b944e1ae56626e1/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/abylay/.gradle/caches/transforms-3/843d7fe25c57fc0ad7c043ffea131ae3/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/abylay/.gradle/caches/transforms-3/843d7fe25c57fc0ad7c043ffea131ae3/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/abylay/.gradle/caches/transforms-3/abaff8438427297a2be0d9b405293434/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/abylay/.gradle/caches/transforms-3/abaff8438427297a2be0d9b405293434/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/abylay/.gradle/caches/transforms-3/ca3c7dd938a459f7c1c3174cd6f47ba4/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/abylay/.gradle/caches/transforms-3/ca3c7dd938a459f7c1c3174cd6f47ba4/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abylay/.gradle/caches/transforms-3/6f6b9b67ce2edd5a8c98655575aaf65d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/abylay/.gradle/caches/transforms-3/6f6b9b67ce2edd5a8c98655575aaf65d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/abylay/.gradle/caches/transforms-3/30b179730d3e377ee6af57cdac8c93e2/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/abylay/.gradle/caches/transforms-3/30b179730d3e377ee6af57cdac8c93e2/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/abylay/.gradle/caches/transforms-3/7871eeae9204e7f90dc4d15b30bff52d/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/abylay/.gradle/caches/transforms-3/7871eeae9204e7f90dc4d15b30bff52d/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/abylay/.gradle/caches/transforms-3/3395f163ea50cbc5a00f58691ba50d0e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/abylay/.gradle/caches/transforms-3/3395f163ea50cbc5a00f58691ba50d0e/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abylay/.gradle/caches/transforms-3/9de3d222db70812f218dd334a4173299/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/abylay/.gradle/caches/transforms-3/9de3d222db70812f218dd334a4173299/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abylay/.gradle/caches/transforms-3/f789f3138f725c41c7733fc3afc77222/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/abylay/.gradle/caches/transforms-3/f789f3138f725c41c7733fc3afc77222/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/abylay/.gradle/caches/transforms-3/56a5ed27daa51227682037c9967c7c88/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/abylay/.gradle/caches/transforms-3/56a5ed27daa51227682037c9967c7c88/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/abylay/.gradle/caches/transforms-3/2e91da32535195cce83c9314f32fcc03/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/abylay/.gradle/caches/transforms-3/2e91da32535195cce83c9314f32fcc03/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/abylay/.gradle/caches/transforms-3/44184fcc5902b08767ef4b907f06b0dd/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/abylay/.gradle/caches/transforms-3/44184fcc5902b08767ef4b907f06b0dd/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/abylay/.gradle/caches/transforms-3/43de7ae63a86a274490a37de90259e77/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/abylay/.gradle/caches/transforms-3/43de7ae63a86a274490a37de90259e77/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abylay/.gradle/caches/transforms-3/e603d48acb89130d45b4d9866925d83e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/abylay/.gradle/caches/transforms-3/e603d48acb89130d45b4d9866925d83e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/abylay/.gradle/caches/transforms-3/6446d1ef2279a10f6c168ab26f0daca1/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/abylay/.gradle/caches/transforms-3/6446d1ef2279a10f6c168ab26f0daca1/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abylay/.gradle/caches/transforms-3/c44b19a5355b8106bdeaf85daed4a591/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/abylay/.gradle/caches/transforms-3/c44b19a5355b8106bdeaf85daed4a591/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abylay/.gradle/caches/transforms-3/29f8e5bd0430eeed7d46dd1645da309c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/abylay/.gradle/caches/transforms-3/29f8e5bd0430eeed7d46dd1645da309c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abylay/.gradle/caches/transforms-3/3583afb71eb3e53932f9bf7e8c1b824d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/abylay/.gradle/caches/transforms-3/3583afb71eb3e53932f9bf7e8c1b824d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/abylay/.gradle/caches/transforms-3/853020e0b7f8b7a7c7f142739f85ee87/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/abylay/.gradle/caches/transforms-3/853020e0b7f8b7a7c7f142739f85ee87/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abylay/.gradle/caches/transforms-3/59c3edaa39b5597b085eda87c3a1a6a4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/abylay/.gradle/caches/transforms-3/59c3edaa39b5597b085eda87c3a1a6a4/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abylay/.gradle/caches/transforms-3/a7594d2941a72a462035cf3d7070f912/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/abylay/.gradle/caches/transforms-3/a7594d2941a72a462035cf3d7070f912/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abylay/.gradle/caches/transforms-3/a468d6958e8bfd9c799d4c8d06f81d2d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/abylay/.gradle/caches/transforms-3/a468d6958e8bfd9c799d4c8d06f81d2d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abylay/.gradle/caches/transforms-3/e2104b114161f9a0cc93554adcc31929/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/abylay/.gradle/caches/transforms-3/e2104b114161f9a0cc93554adcc31929/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abylay/.gradle/caches/transforms-3/2ad9115f0e95ba61d35dc2b9a01f01be/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/abylay/.gradle/caches/transforms-3/2ad9115f0e95ba61d35dc2b9a01f01be/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/abylay/.gradle/caches/transforms-3/201dfcd8ec0515fb0c7d0a4bbcdff197/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/abylay/.gradle/caches/transforms-3/201dfcd8ec0515fb0c7d0a4bbcdff197/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/abylay/.gradle/caches/transforms-3/b0018df4313aa0bddbeaf09c1a0f1b2f/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/abylay/.gradle/caches/transforms-3/b0018df4313aa0bddbeaf09c1a0f1b2f/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/abylay/.gradle/caches/transforms-3/a08e1230b8416590d0469440564388b7/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /Users/abylay/.gradle/caches/transforms-3/a08e1230b8416590d0469440564388b7/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abylay/.gradle/caches/transforms-3/1e3c924aeb2d21c39c074b2bf3f8db83/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/abylay/.gradle/caches/transforms-3/1e3c924aeb2d21c39c074b2bf3f8db83/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/abylay/.gradle/caches/transforms-3/9d6c379610a5fe2ca066476a29dde22f/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/abylay/.gradle/caches/transforms-3/9d6c379610a5fe2ca066476a29dde22f/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/abylay/.gradle/caches/transforms-3/50f37d92b5d935c4f1d43f2962f86e50/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/abylay/.gradle/caches/transforms-3/50f37d92b5d935c4f1d43f2962f86e50/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/abylay/.gradle/caches/transforms-3/0a9224cf9296bd0e2919b1f1e84d8c74/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/abylay/.gradle/caches/transforms-3/0a9224cf9296bd0e2919b1f1e84d8c74/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abylay/.gradle/caches/transforms-3/8b0609dd16043df2ac3fd4826ebd2486/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/abylay/.gradle/caches/transforms-3/8b0609dd16043df2ac3fd4826ebd2486/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abylay/.gradle/caches/transforms-3/7190d698d28f8190dc80c30a2c69779c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/abylay/.gradle/caches/transforms-3/7190d698d28f8190dc80c30a2c69779c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abylay/.gradle/caches/transforms-3/aa17b7fe3444757735e28a95cb3ccc53/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/abylay/.gradle/caches/transforms-3/aa17b7fe3444757735e28a95cb3ccc53/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abylay/.gradle/caches/transforms-3/13ecbc218194bb07e2222c93c939c8bf/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/abylay/.gradle/caches/transforms-3/13ecbc218194bb07e2222c93c939c8bf/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abylay/.gradle/caches/transforms-3/5b408383de9a30951d0840c1228b2351/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/abylay/.gradle/caches/transforms-3/5b408383de9a30951d0840c1228b2351/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/abylay/.gradle/caches/transforms-3/b5fda5456b68aa6df3211a3e7f420053/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/abylay/.gradle/caches/transforms-3/b5fda5456b68aa6df3211a3e7f420053/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abylay/.gradle/caches/transforms-3/b80ce203341323c15e94d41e60bdd840/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/abylay/.gradle/caches/transforms-3/b80ce203341323c15e94d41e60bdd840/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abylay/.gradle/caches/transforms-3/dc36de907295b8c1723454b0e9bac54e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/abylay/.gradle/caches/transforms-3/dc36de907295b8c1723454b0e9bac54e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+		INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+		ADDED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
+		INJECTED from /Users/abylay/StudioProjects/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/AndroidManifest.xml
